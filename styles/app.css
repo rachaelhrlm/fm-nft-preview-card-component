@@ -380,6 +380,9 @@ height: 100%;
 .max-h-10{
 max-height: 2.5rem;
 }
+.max-h-8{
+max-height: 2rem;
+}
 .w-\[22rem\]{
 width: 22rem;
 }
@@ -485,6 +488,9 @@ font-weight: 100;
 }
 .font-light{
 font-weight: 300;
+}
+.font-semibold{
+font-weight: 600;
 }
 .text-white{
 --tw-text-opacity: 1;
