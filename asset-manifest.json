@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/fm-nft-preview-card-component/static/js/main.a308eb48.js",
+    "main.js": "/fm-nft-preview-card-component/static/js/main.25f36d58.js",
     "static/js/787.fe517300.chunk.js": "/fm-nft-preview-card-component/static/js/787.fe517300.chunk.js",
     "index.html": "/fm-nft-preview-card-component/index.html",
-    "main.a308eb48.js.map": "/fm-nft-preview-card-component/static/js/main.a308eb48.js.map",
+    "main.25f36d58.js.map": "/fm-nft-preview-card-component/static/js/main.25f36d58.js.map",
     "787.fe517300.chunk.js.map": "/fm-nft-preview-card-component/static/js/787.fe517300.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a308eb48.js"
+    "static/js/main.25f36d58.js"
   ]
 }
